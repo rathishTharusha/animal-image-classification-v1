@@ -108,9 +108,6 @@ pip install tensorflow keras matplotlib numpy pandas scikit-learn kaggle seaborn
         dogs       0.95      0.97      0.96       150
       snakes       0.97      0.99      0.98       150
 
-    accuracy                           0.96       450
-   macro avg       0.96      0.96      0.96       450
-weighted avg       0.96      0.96      0.96       450
 - **Visualizations**:
   ![Training Graph](image.png)
   ![Confusion Matrix](image-1.png)
